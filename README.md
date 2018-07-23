@@ -9,4 +9,4 @@ A pig game written in JavaScript
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-Have fun ~
+Visit https://yhnedison.github.io/jsPigGame/ to play this game.
